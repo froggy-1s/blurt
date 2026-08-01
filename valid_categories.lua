@@ -1,4 +1,4 @@
-local bru = {
+[
     "Fruits",
     "TV Shows",
     "Birthday Party Items",
@@ -58,4 +58,4 @@ local bru = {
     "Movie Villains",
     "Cartoon Characters",
     "Body Parts"
-}
+]
