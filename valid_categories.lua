@@ -1,4 +1,4 @@
-return {
+local bru = {
     "Fruits",
     "TV Shows",
     "Birthday Party Items",
